@@ -1,1 +1,1 @@
-{ "sorted": false, "executables": [ { "path": "/opt/toolset/executables", "name": "example" } ] }
+{ "sorted": false, "executables": [ { "path": "Users/jannek/Development/test/executables", "name": "list" }, { "path": "Users/jannek/Development/test/executables", "name": "example" } ] }
