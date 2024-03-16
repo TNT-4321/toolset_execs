@@ -7,3 +7,4 @@ update:
 	git add .
 	git commit -m "Update"
 	git push -u origin main
+	cd ~/Development/test
